@@ -9,7 +9,11 @@ console.log(loadData("Agree"));
 console.log(loadData("Disagree"));
 console.log(loadData("Why"));
 
+
 let myImage = new Image(1280, 500);
 myImage.src = 'tennessee.jpg';
 document.body.appendChild(myImage);
+
+
+
 
